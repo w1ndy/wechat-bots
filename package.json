@@ -1,0 +1,19 @@
+{
+  "name": "wechat-bots",
+  "version": "1.0.0",
+  "description": "Bots for wechat",
+  "main": "wechat_bots.js",
+  "author": "Di Weng",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "mathjs": "^3.13.3",
+    "node-netcat": "^1.4.8",
+    "ping": "^0.2.2",
+    "portscanner": "^2.1.1",
+    "qrcode-terminal": "^0.11.0",
+    "temp-units-conv": "^0.1.2",
+    "weather-yahoo": "^1.0.2",
+    "wechaty": "^0.8.90"
+  }
+}
